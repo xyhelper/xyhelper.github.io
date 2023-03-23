@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "docs:deploy": "./deploy.sh"
+  },
   "devDependencies": {
     "vuepress": "^1.9.9"
   }
