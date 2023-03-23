@@ -12,7 +12,9 @@ cd docs/.vuepress/dist
 # 如果是发布到自定义域名
 echo 'xyhelper.cn' > CNAME
 
-git init
+# git init
+# 初始化 main 分支  
+git init -b gh-pages
 git add -A
 git commit -m "deploy | $(date +'%Y-%m-%d %H:%M:%S')"
 
@@ -21,6 +23,6 @@ git commit -m "deploy | $(date +'%Y-%m-%d %H:%M:%S')"
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
-git push -f git@github.com:xyhelper/xyhelper.github.io.git main:gh-pages
+git push -f git@github.com:xyhelper/xyhelper.github.io.git gh-pages:gh-pages
 
 cd -
