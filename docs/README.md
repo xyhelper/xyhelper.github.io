@@ -1,16 +1,16 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /zh/guide/
+heroImage: /tutorial/demo.png
+heroText: XYHELPER
+tagline: 贴心的AI助手
+actionText: 免费下载使用 →
+actionLink: /download/
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: 免费使用
+  details: 提供免费的AI助手服务，让你的生活更加便捷。您甚至不需要注册账号。
+- title: 多平台支持
+  details: 支持Windows、Linux、MacOS等多个平台，开放源代码，方便二次开发。
+- title: 小巧方便
+  details: 单文件绿色小巧，无需安装，无需配置，无需依赖，无需卸载。
+footer: MIT Licensed | Copyright © 2023-present xyhelper
 ---
