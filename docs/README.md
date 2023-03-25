@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /tutorial/demo.png
+heroImage: /demo.png
 heroText: XYHELPER
 tagline: 贴心的AI助手
 actionText: 免费下载使用 →
