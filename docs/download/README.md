@@ -39,7 +39,11 @@ MacOS/Apple Silicon
 xattr -d com.apple.quarantine /Applications/xyhelper-darwin-arm64.app
 ```
 
-注意: 如果您的 Mac 是 Intel 版本，请将 `xyhelper-darwin-arm64.app` 替换为 `xyhelper-darwin-amd64.app`。
+注意: 如果您的 Mac 是 Intel 版本，请将 `xyhelper-darwin-arm64.app` 替换为 `xyhelper-darwin-amd64.app`,也就是说，如果您的 Mac 是 Intel 版本，那么您需要执行如下命令：
+
+```bash
+xattr -d com.apple.quarantine /Applications/xyhelper-darwin-amd64.app
+```
 
 ## Linux
 
