@@ -29,6 +29,18 @@ MacOS/Apple Silicon
 - [Github 下载](https://github.com/xyhelper/xyhelper-desktop/releases/latest/download/xyhelper-darwin-arm64.zip)
 - [ghproxy 加速下载](https://ghproxy.com/github.com/xyhelper/xyhelper-desktop/releases/latest/download/xyhelper-darwin-arm64.zip) - 由于 Github 服务器在国内访问速度较慢，推荐使用此下载方式。
 
+如果碰到 `已损坏，无法打开。 你应该将它移到废纸篓。` 的提示，请执行如下操作：
+
+先将软件移动到应用程序目录下，然后
+
+在终端中输入如下命令：
+
+```bash
+xattr -d com.apple.quarantine /Applications/xyhelper-darwin-arm64.app
+```
+
+注意: 如果您的 Mac 是 Intel 版本，请将 `xyhelper-darwin-arm64.app` 替换为 `xyhelper-darwin-amd64.app`。
+
 ## Linux
 
 因为缺少 Linux 的测试环境(我搞了一堆服务器,居然没搞过 GUI 的),所以暂时没有 Linux 版本的客户端,如果您有 Linux 环境,可以自行编译。
