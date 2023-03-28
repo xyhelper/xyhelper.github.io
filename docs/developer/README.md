@@ -20,7 +20,7 @@
 
 对于 nodejs 开发者，推荐使用 npm 包 [chatgpt](https://www.npmjs.com/package/chatgpt)。
 
-模式使用 `ChatGPTUnofficialProxyAPI` 模式, `apiReverseProxyUrl` 配置为 `https://freechat.xyhelper.cm/backend-api/conversation`。
+模式使用 `ChatGPTUnofficialProxyAPI` 模式, `apiReverseProxyUrl` 配置为 `https://freechat.xyhelper.cn/backend-api/conversation`。
 
 例如：
 
@@ -30,7 +30,7 @@ import { ChatGPTUnofficialProxyAPI } from "chatgpt";
 async function example() {
   const api = new ChatGPTUnofficialProxyAPI({
     accessToken: process.env.OPENAI_ACCESS_TOKEN,
-    apiReverseProxyUrl: "https://freechat.xyhelper.cm/backend-api/conversation",
+    apiReverseProxyUrl: "https://freechat.xyhelper.cn/backend-api/conversation",
   });
 
   const res = await api.sendMessage("Hello World!");
