@@ -16,6 +16,39 @@
 
 `chatgpt-go`是我们为 go 开发者提供的一个开源的聊天机器人 SDK，你可以在你的项目中使用它来实现聊天机器人功能。
 
+例如：
+
+```go
+package main
+
+import (
+	"log"
+	"time"
+
+	chatgpt "github.com/xyhelper/chatgpt-go"
+)
+
+func main() {
+	token := `random token`
+
+	cli := chatgpt.NewClient(
+		chatgpt.WithDebug(true),                            // 开启调试模式
+		chatgpt.WithTimeout(120*time.Second),               // 设置超时时间为120秒
+		chatgpt.WithAccessToken(token),                     // 设置token
+		chatgpt.WithBaseURI("https://freechat.lidong.xin"), // 设置base uri
+	)
+
+	// chat in independent conversation
+	message := "你好"
+	text, err := cli.GetChatText(message)
+	if err != nil {
+		log.Fatalf("get chat text failed: %v", err)
+	}
+
+	log.Printf("q: %s, a: %s\n", message, text.Content)
+}
+```
+
 ## nodejs 开发者
 
 对于 nodejs 开发者，推荐使用 npm 包 [chatgpt](https://www.npmjs.com/package/chatgpt)。
