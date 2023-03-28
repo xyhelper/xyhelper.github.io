@@ -37,3 +37,9 @@ async function example() {
   console.log(res.text);
 }
 ```
+
+## 作品推荐
+
+以下为一些使用本站 API 的作品，欢迎推荐你的作品。
+
+- [hzdjs.cn](https://hzdjs.cn/chatgpt/) - 网页版聊天机器人
