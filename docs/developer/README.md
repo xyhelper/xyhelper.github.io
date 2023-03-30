@@ -76,3 +76,4 @@ async function example() {
 以下为一些使用本站 API 的作品，欢迎推荐你的作品。
 
 - [hzdjs.cn](https://hzdjs.cn/chatgpt/) - 网页版聊天机器人
+- [GTAS AI 助手](http://openai.protaos.com/ashui/)GTAS AI 助手 ✨ 提升效率、创造价值！
