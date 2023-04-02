@@ -31,7 +31,7 @@
 
 请扫码或点击下方链接联系客服购买会员。
 
-<kefu/>
+
 
 [联系客服](https://work.weixin.qq.com/kfid/kfc97c97206f588c396)
 

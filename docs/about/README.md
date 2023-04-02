@@ -8,4 +8,4 @@ XYHELPER 团队致力于 AI 技术的研究与应用，我们希望通过 AI 技
 
 扫码加入微信群：
 
-![](./xyhelperwechatgroup.png)
+![](./wecom-temp-148377-9da1b7bd7f7e3c2f961718c4baa75854.jpg)
