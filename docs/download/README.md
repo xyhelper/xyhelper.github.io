@@ -6,6 +6,8 @@ xyhelper 桌面客户端提供了多种平台的下载方式，您可以根据�
 
 Windows 客户端支持 WIN10/11, 绿色小巧，无需安装，无需配置，无需依赖，无需卸载。
 
+部分系统可能需要下载 [Webview2 Runtime](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/consumer/) 才能正常使用。
+
 - [Github 下载](https://github.com/xyhelper/xyhelper-desktop/releases/latest/download/xyhelper-windows-amd64.zip)
 - [ghproxy 加速下载](https://ghproxy.com/github.com/xyhelper/xyhelper-desktop/releases/latest/download/xyhelper-windows-amd64.zip) - 由于 Github 服务器在国内访问速度较慢，推荐使用此下载方式。
 
