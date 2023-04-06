@@ -17,7 +17,7 @@
 ### Docker
 
 ```bash
-docker run -d -p 8888:8080 --name xyhelper-web xyhelper/xyhelper-web --restart=always
+docker run -d -p 8888:8080 --name xyhelper-web --restart=always xyhelper/xyhelper-web
 ```
 
 部署完成后，访问 `http://localhost:8888` 即可。
