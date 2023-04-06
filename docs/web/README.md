@@ -63,4 +63,4 @@ docker-compose up -d
 
 ## 注意事项
 
-网页版默认接入点是  `https://freechat.xyhelper.com` ，如果您服务器在国内，建议使用国内接入点 `https://freechat.lidong.xin` 。
+网页版默认接入点是  `https://freechat.xyhelper.cn` ，如果您服务器在国内，建议使用国内接入点 `https://freechat.lidong.xin` 。
