@@ -2,15 +2,15 @@
 
 我们提供了开源的网页版，可以在浏览器中使用。
 
-项目地址：[GitHub](https://github.com/xyhelper/xyhelper-web)
+源码地址：[https://github.com/xyhelper/xyhelper-web](https://github.com/xyhelper/xyhelper-web)
 
 ## 演示
 
-可访问 [https://chat.xyhelper.com](https://chat.xyhelper.com) 进行体验。
+可访问 [https://chat.xyhelper.cn](https://chat.xyhelper.cn) 进行体验。
 
 手机端请扫描下方二维码：
 
-![https://chat.xyhelper.com](./qrcode.png)
+![https://chat.xyhelper.cn](./qrcode.png)
 
 ## 部署
 
