@@ -6,6 +6,9 @@ XYHELPER 团队致力于 AI 技术的研究与应用，我们希望通过 AI 技
 
 您可以通过以下方式联系我们：
 
-扫码加入微信群：
+扫码联系微信客服
 
-![](./wecom-temp-148377-9da1b7bd7f7e3c2f961718c4baa75854.jpg)
+
+[联系客服](https://work.weixin.qq.com/kfid/kfc97c97206f588c396)
+
+![微信](../plus/qrcode.png)
