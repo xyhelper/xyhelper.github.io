@@ -16,7 +16,7 @@ module.exports = {
       { text: "使用教程", link: "/tutorial/" },
       { text: "网页版", link: "/web/" },
       { text: "客户端下载", link: "/download/" },
-      { text: "PLUS会员", link: "/plus/" },
+      { text: "会员服务", link: "/plus/" },
       { text: "开发者中心", link: "/developer/" },
       { text: "专享接入点", link: "/access/" },
       { text: "关于我们", link: "/about/" },
