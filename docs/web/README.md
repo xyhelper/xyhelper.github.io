@@ -6,11 +6,11 @@
 
 ## 演示
 
-可访问 [https://chat.xyhelper.cn](https://chat.xyhelper.cn) 进行体验。
+可访问 [xyhelper-web-production.up.railway.app](xyhelper-web-production.up.railway.app) 进行体验。
 
 手机端请扫描下方二维码：
 
-![https://chat.xyhelper.cn](./qrcode.png)
+![xyhelper-web-production.up.railway.app](./qrcoderailway.png)
 
 ## 部署
 
