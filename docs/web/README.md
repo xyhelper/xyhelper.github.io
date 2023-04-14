@@ -6,7 +6,7 @@
 
 ## 演示
 
-可访问 [xyhelper-web-production.up.railway.app](xyhelper-web-production.up.railway.app) 进行体验。
+可访问 [https://xyhelper-web-production.up.railway.app](https://xyhelper-web-production.up.railway.app) 进行体验。
 
 手机端请扫描下方二维码：
 
