@@ -17,3 +17,5 @@
 accessToken: sample-token
 expiresAt: 2021-01-01 00:00:00
 ```
+
+在设置中修改 BaseURI 为境外接入点或境内接入点, 修改 AccessToken 为您的 accessToken。
