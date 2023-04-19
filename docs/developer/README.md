@@ -8,7 +8,7 @@
 
 ## 网页端
 
-网页端推荐使用 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)。
+网页端推荐使用 [xyhelper-web](https://github.com/xyhelper/xyhelper-web)。
 
 ## go 开发者
 
@@ -76,4 +76,5 @@ async function example() {
 以下为一些使用本站 API 的作品，欢迎推荐你的作品。
 
 - [hzdjs.cn](https://hzdjs.cn/chatgpt/) - 网页版聊天机器人
-- [GTAS AI 助手](http://openai.protaos.com/ashui/)GTAS AI 助手 ✨ 提升效率、创造价值！
+- [GTAS AI 助手](http://openai.protaos.com/ashui/) - GTAS AI 助手 ✨ 提升效率、创造价值！
+- [创作王](https://aiapp.cc) - 创作王是一个全能型智能创作平台，可以智能回答、智能创作、智能编写、智能翻译、智能写代码等，帮助您解决各种创作难题。我们提供小红书创作、今日头条创作、知乎问答创作、微博创作、公众号创作等多种场景下不同风格的文章创作，以及视频口播稿、SWOT分析法、英文写作、节日祝福、夸夸神器、塔罗牌预测、解梦神器等多种创作工具。
