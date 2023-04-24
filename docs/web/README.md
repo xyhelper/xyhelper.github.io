@@ -6,11 +6,17 @@
 
 ## 演示
 
-可访问 [https://xyhelper-web-production.up.railway.app](https://xyhelper-web-production.up.railway.app) 进行体验。
+<!-- 可访问 [https://chat.xyhelper.net](https://chat.xyhelper.net) 进行体验。
 
 手机端请扫描下方二维码：
 
-![xyhelper-web-production.up.railway.app](./qrcoderailway.png)
+![chat.xyhelper.net](./chat-xyhelper-net.png) -->
+
+请扫码或点击下方链接联系客服加群获取演示地址。
+
+[联系客服](https://work.weixin.qq.com/kfid/kfc97c97206f588c396)
+
+![微信](./qrcode.png)
 
 ## 部署
 
@@ -61,6 +67,3 @@ docker-compose pull
 docker-compose up -d
 ```
 
-## 注意事项
-
-网页版默认接入点是  `https://freechat.xyhelper.cn` ，如果您服务器在国内，建议使用国内接入点 `https://freechat.lidong.xin` 。
