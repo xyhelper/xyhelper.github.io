@@ -6,13 +6,12 @@
 
 ## 演示
 
-<!-- 可访问 [https://chat.xyhelper.net](https://chat.xyhelper.net) 进行体验。
+- 网页版地址 1 [https://chat.xyhelper.cn](https://chat.xyhelper.cn)
+- 网页版地址 2 [https://chat.xyhelper.net](https://chat.xyhelper.net)
 
-手机端请扫描下方二维码：
+- 网页版地址 3 [https://chat.lidong.xin](https://chat.lidong.xin)
 
-![chat.xyhelper.net](./chat-xyhelper-net.png) -->
-
-请扫码或点击下方链接联系客服加群获取演示地址。
+请扫码或点击下方链接联系客服加群获取演示地址访问密钥。
 
 [联系客服](https://work.weixin.qq.com/kfid/kfc97c97206f588c396)
 
@@ -66,4 +65,3 @@ docker restart xyhelper-web
 docker-compose pull
 docker-compose up -d
 ```
-
