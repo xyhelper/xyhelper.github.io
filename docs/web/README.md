@@ -15,7 +15,7 @@
 
 [联系客服](https://work.weixin.qq.com/kfid/kfc97c97206f588c396)
 
-![微信](./qrcode.png)
+![微信](https://work.weixin.qq.com/kf/kefu/qrcode?kfcode=kfc97c97206f588c396)
 
 ## 部署
 
