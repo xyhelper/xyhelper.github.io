@@ -30,8 +30,8 @@
 
 目前我们提供了免费接口地址(使用 chatgpt 免费帐号搭建)
 
-- 境外用户: https://freechat.xyhelper.cn
-- 境内用户: https://freechat.lidong.xin
+- 免费接入点1: https://freechat.xyhelper.cn
+- 免费接入点2: https://freechat2.xyhelper.cn
 
 使用免费地址时 Token 可随意填写。
 

@@ -35,7 +35,7 @@ func main() {
 		chatgpt.WithDebug(true),                            // 开启调试模式
 		chatgpt.WithTimeout(120*time.Second),               // 设置超时时间为120秒
 		chatgpt.WithAccessToken(token),                     // 设置token
-		chatgpt.WithBaseURI("https://freechat.lidong.xin"), // 设置base uri
+		chatgpt.WithBaseURI("https://freechat.xyhelper.cn"), // 设置base uri
 	)
 
 	// chat in independent conversation
