@@ -6,8 +6,8 @@
 
 ## 演示
 
-- 网页版地址 1 [https://chat.xyhelper.cn](https://chat.xyhelper.cn)
-- 网页版地址 2 [https://chat.xyhelper.com.cn](https://chat.xyhelper.com.cn)
+- 网页版地址 1 [https://chat.xyhelper.cn](https://chat.xyhelper.cn) - 适合境外用户
+- 网页版地址 2 [https://chat.xyhelper.com.cn](https://chat.xyhelper.com.cn) - 适合境内用户
 
 请扫码或点击下方链接联系客服加群获取演示地址访问密钥。
 
