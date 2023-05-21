@@ -12,5 +12,10 @@ features:
   details: 支持Windows、Linux、MacOS等多个平台，开放源代码，方便二次开发。
 - title: 小巧方便
   details: 单文件绿色小巧，无需安装，无需配置，无需依赖，无需卸载。
-footer: MIT Licensed | Copyright © 2023-present xyhelper
+# footer: MIT Licensed | Copyright © 2023-present xyhelper
 ---
+::: slot footer
+MIT Licensed | Copyright © 2023-present xyhelper
+
+[京ICP备2023010632号-1](http://beian.miit.gov.cn/)
+:::
