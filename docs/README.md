@@ -3,8 +3,8 @@ home: true
 heroImage: /demo.png
 heroText: XYHELPER
 tagline: 贴心的AI助手
-actionText: 快速体验 →
-actionLink: https://chat.xyhelper.com.cn
+actionText: 开始使用 →
+actionLink: /ai/
 features:
 - title: 免费使用
   details: 提供免费的AI助手服务，让你的生活更加便捷。您甚至不需要注册账号。
