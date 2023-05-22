@@ -25,4 +25,6 @@ git commit -m "deploy | $(date +'%Y-%m-%d %H:%M:%S')"
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 git push -f git@github.com:xyhelper/xyhelper.github.io.git gh-pages:gh-pages
 
+# 构建Docker镜像 amd64
+docker buildx build --platform linux/amd64 -t xyhelper/xyhelper-www . --push
 cd -
