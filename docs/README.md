@@ -8,10 +8,10 @@ actionLink: /ai/
 features:
 - title: 免费使用
   details: 提供免费的AI助手服务，让你的生活更加便捷。您甚至不需要注册账号。
-- title: 多平台支持
-  details: 支持Windows、Linux、MacOS等多个平台，开放源代码，方便二次开发。
-- title: 小巧方便
-  details: 单文件绿色小巧，无需安装，无需配置，无需依赖，无需卸载。
+- title: 灵活集成
+  details: 您可以将AI助手集成到您的网站或者APP中，让您的用户更加便捷的使用您的产品。
+- title: 开放源码
+  details: 本项目开放源代码，欢迎大家参与开发，一起让AI助手变得更加强大。
 # footer: MIT Licensed | Copyright © 2023-present xyhelper
 ---
 ::: slot footer

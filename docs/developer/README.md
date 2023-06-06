@@ -1,14 +1,16 @@
 # 开发者中心
 
-## 桌面端
+## 通用版用户端
 
-`xyhelper-desktop` 本身是开源的，你可以在 [GitHub](https://github.com/xyhelper/xyhelper-desktop) 上找到它的源代码。
+对于通用版用户端，你可以在 [GitHub](https://github.com/xyhelper/xyhelper-web) 上找到 `xyhelper-web` 的源代码。
 
-软件基于 MIT 协议开源，你可以自由使用、修改、分发、出售。
+## 通用版服务端
 
-## 网页端
+对于通用版服务端，你可以在 [GitHub](https://github.com/xyhelper/chatgpt-api-server) 上找到 `chatgpt-api-server` 的源代码。
 
-网页端推荐使用 [xyhelper-web](https://github.com/xyhelper/xyhelper-web)。
+## 独享版
+
+独享版本客户端和服务端为同一仓库, 你可以在 [GitHub](https://github.com/xyhelper/chatgpt-mirror-server) 上找到 `chatgpt-mirror-server` 的源代码。
 
 ## go 开发者
 
@@ -70,6 +72,9 @@ async function example() {
   console.log(res.text);
 }
 ```
+## 开发交流群
+
+![微信群](./wechat-group.png)
 
 ## 作品推荐
 

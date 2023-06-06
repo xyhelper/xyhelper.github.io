@@ -10,7 +10,7 @@ sidebar: false
 
 <el-row  :gutter="10">
 
-<navcard CardName="通用版(支持免费使用)" Url="https://chat.xyhelper.com.cn">
+<navcard CardName="通用版(免费用户/共享PLUS用户)" Url="https://chat.xyhelper.com.cn">
 使用自定义界面 </br>
 聊天记录本地存储 </br>
 所有用户均可以使用本版本 </br>
