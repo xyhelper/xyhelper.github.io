@@ -20,15 +20,21 @@ sidebar: false
 仿官方界面，支持会话记录存储及漫游。</br>
 仅支持独享会员及独享PLUS会员使用。 </br> 
 独享PLUS用户支持使用官方联网及插件。</br>
-</br>
 <img src="/images/personal.png"></img>
-</br>
 </navcard>
+</el-row>
+<el-row  :gutter="10">
 <navcard CardName="增强版(付费)" Url="https://academic.xyhelper.com.cn">
 丰富的插件扩展功能 </br>
 仅支持独享会员及独享PLUS会员使用。 </br>
-支持使用非官方联网及插件。
+支持使用非官方联网及插件。</br>
 <img src="/images/advance.png"></img>
+</navcard>
+<navcard CardName="NewBing(付费测试版)" Url="https://newbing.xyhelper.com.cn">
+支持联网 </br>
+面向独享会员开放试运行。 </br>
+支持图像生成。</br>
+<img src="/images/newbing.png"></img>
 </navcard>
 <!-- <navcard CardName="MJ绘图"></navcard> -->
 
