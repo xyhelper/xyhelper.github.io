@@ -7,7 +7,7 @@ set -e
 npm run docs:build
 
 # 构建Docker镜像 amd64
-docker buildx build --platform linux/amd64 -t xyhelper/xyhelper-www . --push
+docker buildx build --platform linux/amd64 -t registry.cn-beijing.aliyuncs.com/xyhelper/xyhelper-www:latest . --push
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
