@@ -34,10 +34,14 @@ sidebar: false
 支持联网,支持图像生成。 </br>
 面向独享及共享会员开放试运行。 </br>
 试运行服务,不保证稳定性。   </br>
-</br>
 <img src="/images/newbing.png"></img>
 </navcard>
-<!-- <navcard CardName="MJ绘图"></navcard> -->
+<navcard CardName="MidJourney测试版(付费)" Url="https://mj.xyhelper.com.cn">
+最强大的AI绘图引擎。 </br>
+面向独享会员开放试运行。 </br>
+试运行服务,不保证稳定性。   </br>
+<img src="/images/mj.png"></img>
+</navcard>
 
 </el-row>
 
