@@ -14,7 +14,7 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" },
       { text: "使用入口", link: "/ai/" },
-      { text: "使用教程", link: "/tutorial/" },
+      // { text: "使用教程", link: "/tutorial/" },
       // { text: "网页版", link: "/web/" },
       // { text: "客户端下载", link: "/download/" },
       { text: "会员服务", link: "/plus/" },

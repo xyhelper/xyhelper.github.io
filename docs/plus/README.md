@@ -12,11 +12,8 @@
 
 ## 如何使用
 
-购买会员后,您将接收到会员专属接入点地址及`accessToken`,请妥善保管。`accessToken`是您的会员身份凭证,请勿泄露。
+购买会员后,您将接收到会员专属`accessToken`,请妥善保管。`accessToken`是您的会员身份凭证,请勿泄露。
 
-在 xyhelper 客户端设置中,修改`BaseURI`为会员专属接入点地址,修改`accessToken`为您的会员身份凭证。
-
-`accessToken`有效期为`30天`,到期后请重新购买会员。
 
 ## 如何购买
 

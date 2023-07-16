@@ -74,7 +74,7 @@ async function example() {
 ```
 ## 开发交流群
 
-![微信群](./wechat-group.png)
+![微信群](/xyhelperkf.png)
 
 ## 作品推荐
 
