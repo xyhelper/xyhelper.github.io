@@ -12,8 +12,7 @@
 
 ## 如何使用
 
-购买会员后,您将接收到会员专属`accessToken`,请妥善保管。`accessToken`是您的会员身份凭证,请勿泄露。
-
+购买会员后,您将接收到会员专属`accessToken`,请妥善保管。`accessToken`是您的会员身份凭证,请勿泄露。[点击查看详细使用帮助](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzQ5MzMxOQ==&action=getalbum&album_id=2960700304046686210#wechat_redirect)，设置`accessToken`后进行使用.
 
 ## 如何购买
 
