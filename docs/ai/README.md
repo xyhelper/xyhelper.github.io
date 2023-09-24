@@ -30,21 +30,12 @@ sidebar: false
 支持使用非官方联网及插件。</br>
 <img src="/images/advance.png"></img>
 </navcard>
-<navcard CardName="Claude测试版(付费)" Url="https://claude.xyhelper.com.cn">
-支持100K TOKEN. 支持文件上传分析.</br>
-面向独享及共享会员开放试运行。 </br>
-试运行服务,不保证稳定性。   </br>
-<img src="/images/claude.png"></img>
-</navcard>
-</el-row>
-<el-row  :gutter="10">
 <navcard CardName="MidJourney测试版(付费)" Url="https://mj.xyhelper.com.cn">
 最强大的AI绘图引擎。 </br>
 面向独享及共享会员开放试运行。 </br>
 试运行服务,不保证稳定性。   </br>
 <img src="/images/mj.png"></img>
 </navcard>
-
 </el-row>
 
 <!-- <ClientOnly>

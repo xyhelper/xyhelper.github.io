@@ -21,6 +21,8 @@ module.exports = {
       // { text: "开发者中心", link: "/developer/" },
       { text: "专享接入点", link: "/access/" },
       { text: "关于我们", link: "/about/" },
+      { text: "服务状态", link: "https://uptime.xyhelper.cn/" },
+      { text: "GitHub", link: "https://github.com/xyhelper" },
     ],
   },
 };
