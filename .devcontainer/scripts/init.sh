@@ -19,14 +19,14 @@ if [ "$REMOTE_CONTAINERS" = "true" ]; then
     echo "$(hostname)" >.devcontainer/data/hostname.txt
 
     # 配置goproxy
-    echo "Configuring goproxy"
-    go env -w GO111MODULE=on
-    go env -w GOPROXY=https://goproxy.cn,direct
+    # echo "Configuring goproxy"
+    # go env -w GO111MODULE=on
+    # go env -w GOPROXY=https://goproxy.cn,direct
 
     # 配置npm mirror
-    echo "Configuring npm mirror"
-    npm config set registry https://registry.npmmirror.com
-    yarn config set registry https://registry.npmmirror.com
+    # echo "Configuring npm mirror"
+    # npm config set registry https://registry.npmmirror.com
+    # yarn config set registry https://registry.npmmirror.com
 
     # 安装pgit
     echo "Installing pgit"
