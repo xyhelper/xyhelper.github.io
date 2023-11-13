@@ -30,11 +30,11 @@ sidebar: false
 支持使用非官方联网及插件。</br>
 <img src="/images/advance.png"></img>
 </navcard>
-<navcard CardName="MidJourney测试版(付费)" Url="https://mj.xyhelper.com.cn">
-最强大的AI绘图引擎。 </br>
-面向独享及共享会员开放试运行。 </br>
-试运行服务,不保证稳定性。   </br>
-<img src="/images/mj.png"></img>
+<navcard CardName="车队版(付费)" Url="/xq">
+仿官方界面，支持会话记录存储及漫游。 </br>
+面向共享会员开放试运行。 </br>
+支持使用官方联网及插件。   </br>
+<img src="/images/personal.png"></img>
 </navcard>
 </el-row>
 
