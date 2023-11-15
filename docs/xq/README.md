@@ -18,3 +18,6 @@
 * [小强-3](https://xq-3.xyhelper.cn)
 * [小强-4](https://xq-4.xyhelper.cn)
 * [小强-5](https://xq-5.xyhelper.cn)
+* [小强-6](https://xq-6.xyhelper.cn)
+* [小强-7](https://xq-7.xyhelper.cn)
+* [小强-8](https://xq-8.xyhelper.cn)
