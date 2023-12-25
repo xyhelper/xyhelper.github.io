@@ -15,8 +15,9 @@
 - [免费-2](https://free-2.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-2.xyhelper.cn%2Fendpoint)
 - [免费-3](https://free-3.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-3.xyhelper.cn%2Fendpoint)
 - [免费-4](https://free-4.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-4.xyhelper.cn%2Fendpoint)
-- [免费-5](https://free-5.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-5.xyhelper.cn%2Fendpoint) - 捐赠人 [终章](https://rao2-daili.hf.space)
-- [免费-6](https://free-6.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-6.xyhelper.cn%2Fendpoint) - 捐赠人 业务助手
+- [免费-5](https://free-5.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-5.xyhelper.cn%2Fendpoint) - 捐赠号商 [终章](https://rao2-daili.hf.space)
+- [免费-6](https://free-6.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-6.xyhelper.cn%2Fendpoint) - 捐赠号商 业务助手
+- [免费-7](https://free-7.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ffree-7.xyhelper.cn%2Fendpoint) - 捐赠号商 tobemyslf(联系微信同名)
 
 ## 共享公交车
 
