@@ -30,7 +30,7 @@ sidebar: false
 支持使用官方联网及插件。</br>
 <img src="/images/personal.png"></img>
 </navcard>
-<navcard CardName="共享公交车(付费)" Url="/xq/#共享公交车">
+<navcard CardName="共享公交车(付费)" Url="https://share.xyhelper.com.cn">
 仿官方界面，支持会话记录存储及漫游。 </br>
 面向共享会员开放试运行。 </br>
 支持使用官方联网及插件。   </br>

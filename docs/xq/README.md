@@ -21,19 +21,8 @@
 
 ## 共享公交车
 
-以下编号车为 xyhelper 共享会员专属车，共享 PLUS 会话可自由选择车号。
+共享公交车已迁移至 [https://share.xyhelper.com.cn](https://share.xyhelper.com.cn) 。
 
 ::: tip 提示
 不同车聊天记录不共享，不漫游，请记住自己的车号。
 :::
-
-- [小强-1](https://xq-1.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-1.xyhelper.cn%2Fendpoint)
-- [小强-2](https://xq-2.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-2.xyhelper.cn%2Fendpoint)
-- [小强-3](https://xq-3.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-3.xyhelper.cn%2Fendpoint)
-- [小强-4](https://xq-4.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-4.xyhelper.cn%2Fendpoint)
-- [小强-5](https://xq-5.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-5.xyhelper.cn%2Fendpoint)
-- [小强-6](https://xq-6.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-6.xyhelper.cn%2Fendpoint)
-- [小强-7](https://xq-7.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-7.xyhelper.cn%2Fendpoint)
-- [小强-8](https://xq-8.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-8.xyhelper.cn%2Fendpoint)
-- [小强-9](https://xq-9.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-9.xyhelper.cn%2Fendpoint)
-- [小强-10](https://xq-10.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Fxq-10.xyhelper.cn%2Fendpoint)
