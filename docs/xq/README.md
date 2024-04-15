@@ -11,14 +11,8 @@
 为避免滥用,免费车队使用 4.0 模型时会要求进行人机验证。
 :::
 
-- [免费-1](https://free-1.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-1.xyhelper.cn%2Fendpoint)
-- [免费-2](https://free-2.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-2.xyhelper.cn%2Fendpoint)
-- [免费-3](https://free-3.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-3.xyhelper.cn%2Fendpoint)
-- [免费-4](https://free-4.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-4.xyhelper.cn%2Fendpoint)
-- [免费-5](https://free-5.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-5.xyhelper.cn%2Fendpoint) - 捐赠号商 [终章](https://rao2-daili.hf.space)
-- [免费-6](https://free-6.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-6.xyhelper.cn%2Fendpoint) - 捐赠号商 All in AI 所罗门,联系微信 `gptplusmidjourney`
-- [免费-7](https://free-7.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-7.xyhelper.cn%2Fendpoint) - 捐赠号商 tobemyslf(联系微信同名)
-- [免费-8](https://free-8.xyhelper.cn) ![Endpoint Badge](https://shields.xyhelper.com.cn/endpoint?url=https%3A%2F%2Ffree-8.xyhelper.cn%2Fendpoint) - Team 体验号
+免费公交车已迁移至 [https://free.xyhelper.com.cn](https://free.xyhelper.com.cn) 。
+
 
 ## 共享公交车
 
