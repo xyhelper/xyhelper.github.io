@@ -38,3 +38,5 @@
 * o 微信 1375490651
 * 不茶不饭 微信号 Ail4399
 * 吴争辉 微信 13921968735 自助服务面板 [https://www.xyhelper-agent.com/](https://www.xyhelper-agent.com/)
+* 古大道 微信 terrygyd
+* 趙Hailin 趙Hailin hongyi66188
