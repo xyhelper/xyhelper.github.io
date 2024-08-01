@@ -33,7 +33,6 @@
 
 以下为经过实名认证的车主(拼车发起者)信息，排名不分先后.
 * 墨言 微信 MOYAN_AI_
-* 🎄A善念 微信 Shannian568 
 * L（AI一手资源）微信 tobemyslf（加好友备注来意）
 * 查尔斯 微信 lebronjames101 || Captain 微信 Csg1271932463
 * o 微信 1375490651
