@@ -32,9 +32,6 @@
 如您的使用量较小，可选择拼车服务，即与其他客户共享一个专享接入点，按使用量分摊费用。
 
 以下为经过实名认证的车主(拼车发起者)信息，排名不分先后.
-* 墨言 微信 MOYAN_AI_
-* L（AI一手资源）微信 tobemyslf（加好友备注来意）
-* o 微信 1375490651
-* 不茶不饭 微信号 Ail4399
+
 * 吴争辉 微信 13921968735 自助服务面板 [https://www.xyhelper-agent.com/](https://www.xyhelper-agent.com/)
-* 趙Hailin 趙Hailin hongyi66188
+

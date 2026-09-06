@@ -23,14 +23,14 @@ sidebar: false
 <img src="/images/personal.png"></img>
 </navcard>
 </el-row>
-<el-row  :gutter="10">
+<!-- <el-row  :gutter="10">
 <navcard CardName="独享版(付费)" Url="https://gpt.xyhelper.com.cn">
 仿官方界面，支持会话记录存储及漫游。</br>
 仅支持独享会员及独享PLUS会员使用。 </br> 
 独享PLUS用户支持使用官方联网及插件。</br>
 <img src="/images/personal.png"></img>
 </navcard>
-</el-row>
+</el-row> -->
 
 <!-- <ClientOnly>
 <kefu></kefu>
