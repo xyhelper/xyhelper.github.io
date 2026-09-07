@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2FA TOTP Generator</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            max-width: 600px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            text-align: center;
+        }
+        .container {
+            background: #f9f9f9;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            box-sizing: border-box;
+            font-size: 16px;
+            text-align: center;
+        }
+        #token {
+            font-size: 48px;
+            font-weight: bold;
+            color: #333;
+            margin: 20px 0;
+            font-family: monospace;
+            letter-spacing: 4px;
+        }
+        #timer {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        #qrcode {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .error {
+            color: red;
+            font-size: 14px;
+            display: none;
+        }
+    </style>
+    <!-- Load libraries from CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/otpauth/9.1.4/otpauth.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>2FA 验证码生成器</h1>
+        
+        <div>
+            <label for="secret">输入 Secret (Base32):</label>
+            <input type="text" id="secret" placeholder="例如: rtre x5j5 7cpo..." value="">
+        </div>
+
+        <div id="error" class="error">无效的 Secret</div>
+
+        <div id="token">------</div>
+        <div id="timer">剩余时间: --s</div>
+
+        <div id="qrcode"></div>
+    </div>
+
+    <script>
+        const secretInput = document.getElementById('secret');
+        const tokenDisplay = document.getElementById('token');
+        const timerDisplay = document.getElementById('timer');
+        const qrcodeContainer = document.getElementById('qrcode');
+        const errorDisplay = document.getElementById('error');
+
+        let qrcodeObj = null;
+
+        function cleanSecret(secret) {
+            return secret.replace(/\s+/g, '').toUpperCase();
+        }
+
+        function update() {
+            const rawSecret = secretInput.value;
+            const secret = cleanSecret(rawSecret);
+
+            if (!secret) {
+                tokenDisplay.innerText = '------';
+                return;
+            }
+
+            try {
+                // Create TOTP object
+                const totp = new OTPAuth.TOTP({
+                    issuer: 'XYHelper-2FA',
+                    label: 'User',
+                    algorithm: 'SHA1',
+                    digits: 6,
+                    period: 30,
+                    secret: OTPAuth.Secret.fromBase32(secret)
+                });
+
+                // Generate Token
+                const token = totp.generate();
+                tokenDisplay.innerText = token.substring(0, 3) + ' ' + token.substring(3);
+                errorDisplay.style.display = 'none';
+
+                // Update Timer
+                const period = 30;
+                const epoch = Math.floor(Date.now() / 1000);
+                const remaining = period - (epoch % period);
+                timerDisplay.innerText = `剩余时间: ${remaining}s`;
+
+                // Update QR Code only if secret changed (simple check)
+                // For simplicity in this single-file demo, we'll regenerate the QR code string
+                // and check if we need to redraw.
+                const uri = totp.toString();
+                
+                // Clear previous QR code if we want to redraw completely, 
+                // or use makeCode if the library supports it.
+                // qrcodejs supports makeCode.
+                if (!qrcodeObj) {
+                    qrcodeObj = new QRCode(qrcodeContainer, {
+                        text: uri,
+                        width: 200,
+                        height: 200
+                    });
+                } else {
+                    qrcodeObj.makeCode(uri);
+                }
+
+            } catch (e) {
+                console.error(e);
+                tokenDisplay.innerText = '------';
+                errorDisplay.style.display = 'block';
+                errorDisplay.innerText = '无效的 Secret: ' + e.message;
+            }
+        }
+
+        // Initial call
+        update();
+
+        // Update every second
+        setInterval(update, 1000);
+
+        // Update on input change
+        secretInput.addEventListener('input', update);
+    </script>
+</body>
+</html>
